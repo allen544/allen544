@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Allen 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&color=04e0bb&lines=Building+AI-powered+Summarization+Tools+🧠;Exploring+Cloud+%26+DevOps+☁️;Passionate+Full+Stack+Developer+☕;Turning+Ideas+into+Projects+🚀" alt="Typing SVG">
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&color=04e0bb&lines=Exploring+Cloud+and+DevOps+☁️;=Building+AI-powered+Summarization+Tools+🧠;Exploring+Cloud+%26+DevOps+☁️;Passionate+Full+Stack+Developer+☕;Turning+Ideas+into+Projects+🚀" alt="Typing SVG">
 </p>
 
 ---
