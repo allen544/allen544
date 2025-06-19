@@ -59,12 +59,12 @@ Here are some of the real-world projects and technologies I’ve worked with:
 ---
 
 ## 📊 GitHub Stats
-<a href="https://github.com/coder-jeshwanth"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-jeshwanth&theme=tokyonight&hide_border=true"></a>
-<a href="https://github.com/coder-jeshwanth"><img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder-jeshwanth&theme=tokyonight&hide_border=true"></a>
+<a href="https://github.com/allen544"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allen544&theme=tokyonight&hide_border=true"></a>
+<a href="https://github.com/allen544"><img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allen544&theme=tokyonight&hide_border=true"></a>
 <br />
 <br />
-<a href="https://github.com/coder-jeshwanth"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=coder-jeshwanth&theme=tokyonight&hide_border=true"></a>
+<a href="https://github.com/allen544"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=allen544&theme=tokyonight&hide_border=true"></a>
 <br>
 <br>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-jeshwanth&label=Profile%20views&color=0e75b6&style=flat" alt="coder-jeshwanth" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=allen544&label=Profile%20views&color=0e75b6&style=flat" alt="allen544" /> </p>
