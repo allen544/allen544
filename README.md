@@ -58,32 +58,13 @@ Here are some of the real-world projects and technologies I’ve worked with:
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=allen544&theme=tokyonight&no-frame=true&row=1&margin-w=20&margin-h=15" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=allen544&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allen544&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allen544&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=allen544&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allen544&theme=tokyonight&hide_border=true" width="98%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=allen544&theme=tokyo-night&hide_border=true" width="100%"/>
-</p>
-
----
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=allen544&label=Profile%20views&color=0e75b6&style=flat" alt="allen544" />
-</p>
+## 📊 GitHub Stats
+<a href="https://github.com/coder-jeshwanth"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-jeshwanth&theme=tokyonight&hide_border=true"></a>
+<a href="https://github.com/coder-jeshwanth"><img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder-jeshwanth&theme=tokyonight&hide_border=true"></a>
+<br />
+<br />
+<a href="https://github.com/coder-jeshwanth"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=coder-jeshwanth&theme=tokyonight&hide_border=true"></a>
+<br>
+<br>
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-jeshwanth&label=Profile%20views&color=0e75b6&style=flat" alt="coder-jeshwanth" /> </p>
